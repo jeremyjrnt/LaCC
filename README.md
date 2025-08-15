@@ -59,6 +59,9 @@ The project uses the **Pereira et al. (2018)** fMRI dataset ([MIT EvLab link](ht
 
 ## 🧪 Experiments
 
+Note: Some parts of the notebooks are not included in the project report.
+These were exploratory experiments to satisfy personal curiosity and should not be considered as part of the formal results.
+
 ### 1️⃣ Single-Word Decoding (Replication of Pereira et al. Exp. 1)
 - **Goal**: Compare GloVe vs Word2Vec when decoding isolated concepts.
 - **Method**: Ridge regression decoder trained on voxel → embedding mapping.
